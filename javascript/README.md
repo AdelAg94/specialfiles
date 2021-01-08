@@ -1,2 +1,2 @@
-# specialfiles
+# javascript
 index.html
