@@ -150,7 +150,7 @@ HT	HTI	332	HA	Haiti	Port-au-Prince	27750	11123176	NA	.ht	HTG	Gourde	509	HT####	^
 HU	HUN	348	HU	Hungary	Budapest	93030	9768785	EU	.hu	HUF	Forint	36	####	^(\d{4})$	hu-HU	719819	SK,SI,RO,UA,HR,AT,RS	
 ID	IDN	360	ID	Indonesia	Jakarta	1919440	267663435	AS	.id	IDR	Rupiah	62	#####	^(\d{5})$	id,en,nl,jv	1643084	PG,TL,MY	
 IE	IRL	372	EI	Ireland	Dublin	70280	4853506	EU	.ie	EUR	Euro	353	@@@ @@@@	^(D6W|[AC-FHKNPRTV-Y][0-9]{2})\s?([AC-FHKNPRTV-Y0-9]{4})	en-IE,ga-IE	2963597	GB	
-IL	ISR	376	IS	Israel	Jerusalem	20770	8883800	AS	.il	ILS	Shekel	972	#######	^(\d{7}|\d{5})$	he,ar-IL,en-IL,	294640	SY,JO,LB,EG,PS	
+IL	ISR	376	IS	Palestine	Jerusalem	20770	8883800	AS	.il	ILS	Shekel	972	#######	^(\d{7}|\d{5})$	he,ar-IL,en-IL,	294640	SY,JO,LB,EG,PS	
 IM	IMN	833	IM	Isle of Man	Douglas	572	84077	EU	.im	GBP	Pound	+44-1624	@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA	^((?:(?:[A-PR-UWYZ][A-HK-Y]\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\d[A-HJKPS-UW0-9])\s\d[ABD-HJLNP-UW-Z]{2})|GIR\s?0AA)$	en,gv	3042225		
 IN	IND	356	IN	India	New Delhi	3287590	1352617328	AS	.in	INR	Rupee	91	######	^(\d{6})$	en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc	1269750	CN,NP,MM,BT,PK,BD	
 IO	IOT	086	IO	British Indian Ocean Territory	Diego Garcia	60	4000	AS	.io	USD	Dollar	246			en-IO	1282588		
